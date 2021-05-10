@@ -1,0 +1,341 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pattern Cutting and Making Up",
+      "category": "Art & Photography",
+      "description": "By: M M Shoben (Author) | Publisher: CBS Publishers & Distributors | Released: 30 Apr 2021 | Publisher Imprint: CBS Publishers & Distributors",
+      "price": "575",
+      "image": "assets/images/paperCutting.jpg",
+      "by": "M M Shoben",
+      "publisher": "CBS Publishers & Distributors"
+    },
+    {
+      "id": 2,
+      "name": "Seeker",
+      "category": "Fiction",
+      "description": "By: Karan Bajaj (Author) | Publisher: Penguin Group Books | Released: 01 Apr 2021 | Publisher Imprint: Penguin",
+      "price": "299",
+      "image": "assets/images/seeker.jpg",
+      "by": " Karan Bajaj",
+      "publisher": "Penguin"
+    },
+    {
+      "id": 3,
+      "name": "Light of Impossible Stars: An Embers of War Novel",
+      "category": "Fantasy",
+      "description": "By: Gareth L. Powell (Author) , Gareth L Powell (Author) | Publisher: TITAN | Released: 18 Feb 2020 | Publisher Imprint: Titan Books\nBSFA Award-winning author Gareth L. Powell delivers an explosive conclusion to his epic Embers of War trilogy.",
+      "price": "550",
+      "image": "assets/images/lightStars.jpg",
+      "by": "Gareth L. Powell",
+      "publisher": "Titan Books"
+    },
+    {
+      "id": 4,
+      "name": "Displacement and Citizenship",
+      "category": "Sports",
+      "description": "By: Vijaya Rao (Edited) , Mallarika Sinha Roy (Edited) , Papori Bora (Edited) , Shambhavi Prakash (Edited) | Publisher: Tulika Books | Released: 31 Jan 2020 | Publisher Imprint: Tulika Books",
+      "price": "900",
+      "image": "assets/images/displacement.jpg",
+      "by": "Vijaya Rao (Edited) , Mallarika Sinha Roy (Edited) , Papori Bora (Edited) , Shambhavi Prakash (Edited)",
+      "publisher": "Tulika Books"
+    },
+    {
+      "name": "Electrodynamics",
+      "category": "Technology and Engineering",
+      "description": "This book deals with the essentials of electrodynamics and incorporates the basic principles and mathematics involved in the subject. It is a self-contained book comprising 18 chapters and 9 appendices written in a cogent style to help the readers grasp the information quickly and easily.",
+      "price": "725",
+      "image": "assets/images/electrodynamics.jpg",
+      "by": " S.L. Kakani (Author) , S L Kakani (Author) , Shubhra Kakani (Author)",
+      "publisher": "CBS Publishers & Distributors Pvt Ltd, India",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "The Evolutionary Road to Human Memory",
+      "category": "Science and Mathematics",
+      "description": "We tend to think about memory in terms of the human experience, neglecting the fact that we can trace a direct line of descent from the earliest vertebrates to modern humans.",
+      "price": "500",
+      "image": "assets/images/evolutionary.jpg",
+      "by": "Elisabeth A Murray (Author) , Kim S Graham (Author) , Mary K L Baldwin (Author) , Steven P Wise (Author)",
+      "publisher": "Oxford University Press, USA"
+    }
+  ],
+  "orders": [
+    {
+      "cart": {
+        "lines": [
+          {
+            "product": {
+              "id": 1,
+              "name": "Book1",
+              "category": "Watersports",
+              "description": "A boat for one person",
+              "price": 275,
+              "image": "https://images-na.ssl-images-amazon.com/images/I/41H+V0ybvwL._SX441_BO1,204,203,200_.jpg"
+            },
+            "quantity": 1
+          }
+        ],
+        "itemCount": 1,
+        "cartPrice": 275
+      },
+      "shipped": true,
+      "name": "ffs",
+      "address": "fsf",
+      "city": "fsfsf",
+      "state": "sfsf",
+      "zip": "3232",
+      "country": "fsdfsf",
+      "id": 1
+    },
+    {
+      "cart": {
+        "lines": [
+          {
+            "product": {
+              "id": 3,
+              "name": "Soccer Ball",
+              "category": "Soccer",
+              "description": "FIFA-approved size and weight",
+              "price": 19.5,
+              "image": "https://images-na.ssl-images-amazon.com/images/I/41H+V0ybvwL._SX441_BO1,204,203,200_.jpg"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 4,
+              "name": "Corner Flags",
+              "category": "Soccer",
+              "description": "Give your playing field a professional touch",
+              "price": 34.95,
+              "image": "https://images-na.ssl-images-amazon.com/images/I/41H+V0ybvwL._SX441_BO1,204,203,200_.jpg"
+            },
+            "quantity": 5
+          }
+        ],
+        "itemCount": 6,
+        "cartPrice": 194.25
+      },
+      "shipped": true,
+      "name": "Rocky",
+      "address": "wrwrwr",
+      "city": "wrwrw",
+      "state": "wrwrw",
+      "zip": "432423",
+      "country": "fsfsfsf",
+      "id": 2
+    },
+    {
+      "cart": {
+        "lines": [
+          {
+            "product": {
+              "id": 1,
+              "name": "flkfdlfndlfndld",
+              "category": "Watersports",
+              "description": "A boat for one person",
+              "price": 275,
+              "image": "/assets/images/displacement.jpg",
+              "by": "fefdd",
+              "publisher": "rerererer"
+            },
+            "quantity": 1
+          }
+        ],
+        "itemCount": 1,
+        "cartPrice": 275
+      },
+      "shipped": true,
+      "name": "dee",
+      "address": "erere",
+      "city": "ererer",
+      "state": "ererer",
+      "zip": "reere",
+      "country": "rerere",
+      "id": 3
+    },
+    {
+      "cart": {
+        "lines": [
+          {
+            "product": {
+              "id": 1,
+              "name": "flkfdlfndlfndld",
+              "category": "Watersports",
+              "description": "A boat for one person",
+              "price": 275,
+              "image": "/assets/images/displacement.jpg",
+              "by": "fefdd",
+              "publisher": "rerererer"
+            },
+            "quantity": 3
+          },
+          {
+            "product": {
+              "id": 3,
+              "name": "Magic Wizard",
+              "category": "Soccer",
+              "description": "FIFA-approved size and weight",
+              "price": 19.5,
+              "image": "https://images-na.ssl-images-amazon.com/images/I/41H+V0ybvwL._SX441_BO1,204,203,200_.jpg",
+              "by": "fefdd",
+              "publisher": "rerererer"
+            },
+            "quantity": 2
+          },
+          {
+            "product": {
+              "id": 4,
+              "name": "Corner Fl",
+              "category": "Soccer",
+              "description": "Give your playing field a professional touch",
+              "price": 34.95,
+              "image": "https://images-na.ssl-images-amazon.com/images/I/41H+V0ybvwL._SX441_BO1,204,203,200_.jpg",
+              "by": "fefdd",
+              "publisher": "rerererer"
+            },
+            "quantity": 1
+          }
+        ],
+        "itemCount": 6,
+        "cartPrice": 898.95
+      },
+      "shipped": true,
+      "name": "ff",
+      "address": "sfsfs",
+      "city": "sfsfsf",
+      "state": "sffs",
+      "zip": "2324",
+      "country": "gddgdg",
+      "id": 4
+    },
+    {
+      "cart": {
+        "lines": [
+          {
+            "product": {
+              "id": 1,
+              "name": "Pattern Cutting and Making Up",
+              "category": "Art & Photography",
+              "description": "By: M M Shoben (Author) | Publisher: CBS Publishers & Distributors | Released: 30 Apr 2021 | Publisher Imprint: CBS Publishers & Distributors",
+              "price": "575",
+              "image": "assets/images/paperCutting.jpg",
+              "by": "M M Shoben",
+              "publisher": "CBS Publishers & Distributors"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 2,
+              "name": "Seeker",
+              "category": "Fiction",
+              "description": "By: Karan Bajaj (Author) | Publisher: Penguin Group Books | Released: 01 Apr 2021 | Publisher Imprint: Penguin",
+              "price": "299",
+              "image": "assets/images/seeker.jpg",
+              "by": " Karan Bajaj",
+              "publisher": "Penguin"
+            },
+            "quantity": 1
+          }
+        ],
+        "itemCount": 2,
+        "cartPrice": 874
+      },
+      "shipped": false,
+      "name": "Sam",
+      "city": "Pune",
+      "address": "House no. 123, Raj Colony",
+      "state": "Maharastra",
+      "zip": "23345",
+      "country": "India",
+      "id": 5
+    },
+    {
+      "cart": {
+        "lines": [
+          {
+            "product": {
+              "id": 1,
+              "name": "Pattern Cutting and Making Up",
+              "category": "Art & Photography",
+              "description": "By: M M Shoben (Author) | Publisher: CBS Publishers & Distributors | Released: 30 Apr 2021 | Publisher Imprint: CBS Publishers & Distributors",
+              "price": "575",
+              "image": "assets/images/paperCutting.jpg",
+              "by": "M M Shoben",
+              "publisher": "CBS Publishers & Distributors"
+            },
+            "quantity": 1
+          }
+        ],
+        "itemCount": 1,
+        "cartPrice": 575
+      },
+      "shipped": false,
+      "name": "Raj",
+      "city": "Ludhiana",
+      "address": "House no. 123, ABC Colony",
+      "state": "Punjab",
+      "zip": "23345",
+      "country": "India",
+      "id": 6
+    },
+    {
+      "cart": {
+        "lines": [
+          {
+            "product": {
+              "id": 1,
+              "name": "Pattern Cutting and Making Up",
+              "category": "Art & Photography",
+              "description": "By: M M Shoben (Author) | Publisher: CBS Publishers & Distributors | Released: 30 Apr 2021 | Publisher Imprint: CBS Publishers & Distributors",
+              "price": "575",
+              "image": "assets/images/paperCutting.jpg",
+              "by": "M M Shoben",
+              "publisher": "CBS Publishers & Distributors"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 2,
+              "name": "Seeker",
+              "category": "Fiction",
+              "description": "By: Karan Bajaj (Author) | Publisher: Penguin Group Books | Released: 01 Apr 2021 | Publisher Imprint: Penguin",
+              "price": "299",
+              "image": "assets/images/seeker.jpg",
+              "by": " Karan Bajaj",
+              "publisher": "Penguin"
+            },
+            "quantity": 1
+          },
+          {
+            "product": {
+              "id": 3,
+              "name": "Light of Impossible Stars: An Embers of War Novel",
+              "category": "Fantasy",
+              "description": "By: Gareth L. Powell (Author) , Gareth L Powell (Author) | Publisher: TITAN | Released: 18 Feb 2020 | Publisher Imprint: Titan Books\nBSFA Award-winning author Gareth L. Powell delivers an explosive conclusion to his epic Embers of War trilogy.",
+              "price": "550",
+              "image": "assets/images/lightStars.jpg",
+              "by": "Gareth L. Powell",
+              "publisher": "Titan Books"
+            },
+            "quantity": 1
+          }
+        ],
+        "itemCount": 3,
+        "cartPrice": 1424
+      },
+      "shipped": false,
+      "name": "Rahul",
+      "address": "Sector XX",
+      "city": "Chandigarh",
+      "state": "Chadigarh",
+      "zip": "334XXx",
+      "country": "India",
+      "id": 7
+    }
+  ]
+}

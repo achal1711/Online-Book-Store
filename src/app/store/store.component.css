@@ -1,0 +1,64 @@
+.card{
+    border-radius: 0;
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+}
+
+.abs{
+    float: left;
+    padding-left: 20px;
+}
+
+.fon{
+    color: #4D4646;
+    font-size: 13px;
+}
+
+.fon2{
+    color: #4D4646;
+    font-weight: 100;
+}
+
+  .fa-cart-plus{
+      color: #28a745;
+  }
+
+  .fa-cart-plus:hover{
+    color: green;
+  }
+
+  .money {
+    font-weight: bold;
+    color: #F03E19;
+  }
+
+  .btn-block
+  {
+      border-radius: 0;
+      margin-top: 0;
+  }
+
+  .btn-outline-primary
+  {
+      text-align: left;
+  }
+
+  .fa-bars:hover{
+    cursor: pointer;
+  }
+
+  .bg-dark {
+    background-color: #343a40!important;
+    padding: .40em;
+}
+
+ .btn-sm {
+   border: 0;
+   border-radius: 0;
+ }
+
+.btn-def:hover{
+  background-color: lightgrey;
+}
+
